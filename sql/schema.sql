@@ -1,0 +1,1 @@
+CREATE TABLE orders(order_id INT,customer_id INT,order_date DATE,category VARCHAR(50),region VARCHAR(20),sales FLOAT,profit FLOAT);
